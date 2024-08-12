@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(243, 135, 85);
+  margin: 30pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+li {
+  font-size: 13pt;
+  font: rgb(42, 41, 41);
+  list-style-type: disc;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  color: black;
+  
+}
+
+h3 {
+
+  
+  text-align: center;
+  color: rgb(18, 19, 18);
+}

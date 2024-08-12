@@ -1,0 +1,56 @@
+[
+  {
+    "fName": "May",
+    "lName": "Basalo",
+    "phoneNum": "709-763-8267",
+    "occupation": "Web Developer",
+    "jobDescription": "is incharge of ensuring websites look good and function properly.",
+    "salary": 81000,
+    "hireDate": "2024-08-05"
+  },
+  {
+    "fName": "May",
+    "lName": "Basalo",
+    "phoneNum": "709-763-8267",
+    "occupation": "Software Engineer",
+    "jobDescription": "IT professional who designs, develops and maintains computer software.",
+    "salary": 120000,
+    "hireDate": "2024-09-18"
+   },
+  {
+    "fName": "Maria",
+    "lName": "Dezon",
+    "phoneNum": "709-727-4589",
+    "occupation": "Data Scientist",
+    "jobDescription": "Examine which questions need answering and where to find the related data.",
+    "salary": 79000,
+    "hireDate": "2024-08-25"
+   },
+  {
+    "fName": "Jhanna",
+    "lName": "Lopez",
+    "phoneNum": "709-345-6799",
+    "occupation": "Cloud Architect",
+    "jobDescription": "IT professional who oversees the management and maintenance of an organization's cloud computing system.",
+    "salary": 123000,
+    "hireDate": "2024-09-06"
+   },
+  {
+    "fName": "Leslie",
+    "lName": "Sovilla",
+    "phoneNum": "709-999-4474",
+    "occupation": "System Administrator",
+    "jobDescription": "is responsible for the upkeep, configuration, and operation of computer systems and servers.",
+    "salary": 96000,
+    "hireDate": "2024-09-15"
+    },
+  {
+    "fName": "Jullie",
+    "lName": "Sovilla",
+    "phoneNum": "709-222-5559",
+    "occupation": "Database Administrator",
+    "jobDescription": "uses specialized software to store and organize data.",
+    "salary": 110000,
+    "hireDate": "2024-08-28"
+    }
+]
